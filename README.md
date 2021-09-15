@@ -1,2 +1,2 @@
 # Todo-list
-create todo-list with react
+create a list with edit and add method ( useState, boostrap, uuidv4 and props )
